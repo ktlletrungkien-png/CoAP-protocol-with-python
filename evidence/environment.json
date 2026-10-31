@@ -1,0 +1,8 @@
+{
+  "captured_at": "2026-10-31T10:10:23+07:00",
+  "python": "3.12.0",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "aiocoap": "0.4.17",
+  "transport": "real UDP, 127.0.0.1, temporary ports",
+  "student_data": "Examples only: Nguyen Van A / B23DCCN001"
+}

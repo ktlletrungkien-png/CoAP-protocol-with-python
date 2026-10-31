@@ -1,0 +1,7 @@
+Command: python bai1/coap_server_bai1.py --port 64865
+
+CoAP Server bai1 dang lang nghe tai coap://127.0.0.1:64865/iot/lab/message
+[2026-10-31T10:10:23+07:00] GET /
+[2026-10-31T10:10:23+07:00] Nhan thong diep: Xin chao tu CoAP Client - B23DCCN001 - Nguyen Van A
+[2026-10-31T10:10:23+07:00] Nhan thong diep: Xin chao tu CoAP Client - B23DCCN001 - Nguyen Van A
+[2026-10-31T10:10:23+07:00] GET /

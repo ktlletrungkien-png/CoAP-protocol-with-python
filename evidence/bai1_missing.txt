@@ -1,0 +1,6 @@
+Command: python bai1/coap_client_bai1.py --port 64865 --name Nguyen Van A --student-id B23DCCN001 --path /iot/lab/missing
+Exit code: 1
+
+GET thong diep hien tai:
+Code: 4.04 Not Found
+Payload: 

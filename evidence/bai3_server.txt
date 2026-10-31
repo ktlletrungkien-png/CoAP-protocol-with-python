@@ -1,0 +1,18 @@
+Command: python bai3/light_server_bai3.py --port 62341 --devices light01 fan01 pump01 --log-file evidence/transitions.jsonl
+
+CoAP server ready at coap://127.0.0.1:62341/iot/lab/<device>/status
+Devices: light01, fan01, pump01
+Observer count for light01: 1
+Observer count for light01: 2
+Transition: {"device_id":"light01","status":"ON","timestamp":"2026-10-31T03:10:32.445496+00:00"}
+light01: OFF -> ON; notifying observers
+Transition: {"device_id":"light01","status":"OFF","timestamp":"2026-10-31T03:10:32.882830+00:00"}
+light01: ON -> OFF; notifying observers
+Transition: {"device_id":"fan01","status":"ON","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+fan01: OFF -> ON; notifying observers
+Transition: {"device_id":"fan01","status":"OFF","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+fan01: ON -> OFF; notifying observers
+Transition: {"device_id":"pump01","status":"ON","timestamp":"2026-10-31T03:10:33.360624+00:00"}
+pump01: OFF -> ON; notifying observers
+Transition: {"device_id":"pump01","status":"OFF","timestamp":"2026-10-31T03:10:33.360624+00:00"}
+pump01: ON -> OFF; notifying observers

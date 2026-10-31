@@ -1,0 +1,17 @@
+Command: python bai3/light_controller_bai3.py --port 62341 --device fan01 --commands ON STATUS OFF
+Exit code: 0
+
+Sending PUT to coap://127.0.0.1:62341/iot/lab/fan01/status
+Request JSON: {"device_id":"fan01","command":"ON"}
+Code: 2.04 Changed
+Payload: {"device_id":"fan01","status":"ON","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+fan01 status: ON
+Sending GET to coap://127.0.0.1:62341/iot/lab/fan01/status
+Code: 2.05 Content
+Payload: {"device_id":"fan01","status":"ON","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+fan01 status: ON
+Sending PUT to coap://127.0.0.1:62341/iot/lab/fan01/status
+Request JSON: {"device_id":"fan01","command":"OFF"}
+Code: 2.04 Changed
+Payload: {"device_id":"fan01","status":"OFF","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+fan01 status: OFF

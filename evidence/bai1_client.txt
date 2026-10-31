@@ -1,0 +1,19 @@
+Command: python bai1/coap_client_bai1.py --port 64865 --name Nguyen Van A --student-id B23DCCN001 --count 2 --verify-get
+Exit code: 0
+
+GET thong diep hien tai:
+Code: 2.05 Content
+Payload: Xin chao tu CoAP Server
+POST thong diep (1/2):
+URI: coap://127.0.0.1:64865/iot/lab/message
+Payload: Xin chao tu CoAP Client - B23DCCN001 - Nguyen Van A
+Code: 2.04 Changed
+Payload: Server da nhan thong diep
+POST thong diep (2/2):
+URI: coap://127.0.0.1:64865/iot/lab/message
+Payload: Xin chao tu CoAP Client - B23DCCN001 - Nguyen Van A
+Code: 2.04 Changed
+Payload: Server da nhan thong diep
+GET xac minh thong diep moi nhat:
+Code: 2.05 Content
+Payload: Xin chao tu CoAP Client - B23DCCN001 - Nguyen Van A

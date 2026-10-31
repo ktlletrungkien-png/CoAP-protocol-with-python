@@ -1,0 +1,14 @@
+test_bai1_welcome_post_latest_and_missing_resource (test_coap_integration.CoAPIntegrationTests.test_bai1_welcome_post_latest_and_missing_resource) ... ok
+test_bai2_monitor_rejects_malformed_json_over_udp (test_coap_integration.CoAPIntegrationTests.test_bai2_monitor_rejects_malformed_json_over_udp) ... ok
+test_bai2_monitor_threshold_and_log (test_coap_integration.CoAPIntegrationTests.test_bai2_monitor_threshold_and_log) ... ok
+test_bai2_refresh_happens_without_get (test_coap_integration.CoAPIntegrationTests.test_bai2_refresh_happens_without_get) ... ok
+test_bai2_sensor_json_multiple_devices_and_fixed_values (test_coap_integration.CoAPIntegrationTests.test_bai2_sensor_json_multiple_devices_and_fixed_values) ... ok
+test_bai3_monitor_cli_receives_observe_update (test_coap_integration.CoAPIntegrationTests.test_bai3_monitor_cli_receives_observe_update) ... ok
+test_bai3_optional_devices_are_independent (test_coap_integration.CoAPIntegrationTests.test_bai3_optional_devices_are_independent) ... ok
+test_bai3_put_validation_observe_two_clients_and_transition_log (test_coap_integration.CoAPIntegrationTests.test_bai3_put_validation_observe_two_clients_and_transition_log) ... ok
+test_cli_timeout_and_controller_batch (test_coap_integration.CoAPIntegrationTests.test_cli_timeout_and_controller_batch) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 8.544s
+
+OK

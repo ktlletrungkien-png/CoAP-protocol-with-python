@@ -1,0 +1,3 @@
+{"device_id": "sensor01", "temperature": 36.1, "humidity": 38.7, "timestamp": "2026-10-31T03:10:24Z", "received_at": "2026-10-31T10:10:24+07:00", "rtt_ms": 1.21}
+{"device_id": "sensor01", "temperature": 36.1, "humidity": 38.7, "timestamp": "2026-10-31T03:10:27Z", "received_at": "2026-10-31T10:10:27+07:00", "rtt_ms": 2.272}
+{"device_id": "sensor01", "temperature": 36.1, "humidity": 38.7, "timestamp": "2026-10-31T03:10:30Z", "received_at": "2026-10-31T10:10:30+07:00", "rtt_ms": 2.569}

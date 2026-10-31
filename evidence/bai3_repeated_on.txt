@@ -1,0 +1,8 @@
+Command: python bai3/light_controller_bai3.py --port 62341 --command ON
+Exit code: 0
+
+Sending PUT to coap://127.0.0.1:62341/iot/lab/light01/status
+Request JSON: {"device_id":"light01","command":"ON"}
+Code: 2.04 Changed
+Payload: {"device_id":"light01","status":"ON","timestamp":"2026-10-31T03:10:32.678535+00:00"}
+light01 status: ON

@@ -1,0 +1,5 @@
+Command: python bai1/coap_client_bai1.py --port 64871 --name Nguyen Van A --student-id B23DCCN001 --timeout 0.3
+Exit code: 1
+
+GET thong diep hien tai:
+Loi: Server khong phan hoi trong 0.3 giay

@@ -1,0 +1,6 @@
+{"device_id":"light01","status":"ON","timestamp":"2026-10-31T03:10:32.445496+00:00"}
+{"device_id":"light01","status":"OFF","timestamp":"2026-10-31T03:10:32.882830+00:00"}
+{"device_id":"fan01","status":"ON","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+{"device_id":"fan01","status":"OFF","timestamp":"2026-10-31T03:10:33.136703+00:00"}
+{"device_id":"pump01","status":"ON","timestamp":"2026-10-31T03:10:33.360624+00:00"}
+{"device_id":"pump01","status":"OFF","timestamp":"2026-10-31T03:10:33.360624+00:00"}

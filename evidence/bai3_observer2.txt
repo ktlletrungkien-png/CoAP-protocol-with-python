@@ -1,0 +1,5 @@
+Command: python bai3/light_monitor_bai3.py --port 62341 --count 3 --idle-timeout 8
+
+[2026-10-31T10:10:32+07:00] initial: light01 = OFF (Code: 2.05 Content)
+[2026-10-31T10:10:32+07:00] update 1: light01 = ON (Code: 2.05 Content)
+[2026-10-31T10:10:32+07:00] update 2: light01 = OFF (Code: 2.05 Content)

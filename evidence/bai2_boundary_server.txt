@@ -1,0 +1,3 @@
+Command: python bai2/sensor_server_bai2.py --port 62339 --temperature 35 --humidity 40
+
+CoAP Sensor Server dang lang nghe tai coap://127.0.0.1:62339 (/iot/lab/sensor01/data)

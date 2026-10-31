@@ -1,0 +1,6 @@
+Command: python bai2/monitor_client_bai2.py --port 62339 --count 1
+Exit code: 0
+
+sensor01 | nhiet do 35.0 C | do am 40.0% | nhan luc 2026-10-31T10:10:31+07:00
+Trang thai: Binh thuong
+Thong ke: request da thu=1, thanh cong=1, RTT trung binh=1.21 ms
